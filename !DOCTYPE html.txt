@@ -2,7 +2,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Amigo Secreto</title>
+    <title>Amigo-secreto-Navide-o-
+</title>
     <style>
         * {
             box-sizing: border-box;
@@ -356,3 +357,4 @@
 </script>
 </body>
 </html>
+
